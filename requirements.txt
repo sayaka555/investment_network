@@ -1,0 +1,9 @@
+jenome
+folium
+matplotlib
+networkx
+pandas
+python-louvain
+openpyxl
+scipy
+numpy
